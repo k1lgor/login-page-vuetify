@@ -1,5 +1,7 @@
 # login-page-vuetify
 
+<img src="./gif.gif" width="450px" height="250px" />
+
 ## Project setup
 
 ```
